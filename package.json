@@ -15,7 +15,7 @@
   "dependencies": {
     "@zoomus/websdk": "^1.7.2",
     "install": "^0.13.0",
-    "next": "^8.1.0",
+    "next": "^13.1.1",
     "npm": "^6.14.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
